@@ -1,6 +1,6 @@
 ![](horse-smile.gif)
 
-# BDOHorseDrop
+# Black Desert Online Horse Drop Module
 
 This is a Horse drop module that lets you drop all your trash to your horse, when you go for repair cycle.
 It will run to your horse, drop trash and run back to your tent starting point and continue the profile from there.
