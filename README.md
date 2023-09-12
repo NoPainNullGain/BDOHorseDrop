@@ -1,4 +1,4 @@
-![](horse-smile.gif)
+![](BDOHorseDrop.gif)
 
 # Black Desert Online - Horse Drop Module
 
@@ -21,6 +21,3 @@ https://i.imgur.com/mGpg1Bs.png
 
 Download Module:
 https://drive.google.com/drive/folders/1OxmC2TtZOhggwniPDWDqvf60RGMXJRD-?usp=sharing
-
-# Horse Drop in Action
-![](BDOHorseDrop.gif)
